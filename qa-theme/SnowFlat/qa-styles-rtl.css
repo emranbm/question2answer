@@ -457,3 +457,11 @@ h1 {
 	direction: ltr;
 	display: inline-block;
 }
+
+[dir="auto"] code {
+    float: left;
+}
+
+[dir="rtl"] code {
+    float: left;
+}
