@@ -477,4 +477,5 @@ h2 {font-size:16px; padding-top:12px; clear:both;}
 
 [dir="auto"] code {
     float: left;
+    direction: ltr;
 }

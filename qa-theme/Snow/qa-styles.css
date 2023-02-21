@@ -2653,4 +2653,5 @@ a.qa-browse-cat-link:visited {
 
 [dir="auto"] code {
     float: left;
+    direction: ltr;
 }
