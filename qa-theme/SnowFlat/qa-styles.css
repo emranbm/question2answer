@@ -3498,4 +3498,5 @@ input[type="submit"], button {
 
 [dir="auto"] code {
     float: left;
+    direction: ltr;
 }

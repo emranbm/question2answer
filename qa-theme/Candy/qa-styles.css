@@ -520,4 +520,5 @@ h2 {font-size:22px; color:#c659ab; padding-top:12px; clear:both;}
 
 [dir="auto"] code {
     float: left;
+    direction: ltr;
 }

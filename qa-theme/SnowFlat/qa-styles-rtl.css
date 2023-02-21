@@ -452,8 +452,10 @@ h1 {
 
 [dir="auto"] code {
     float: left;
+    direction: ltr;
 }
 
 [dir="rtl"] code {
     float: left;
+	direction: ltr;
 }
